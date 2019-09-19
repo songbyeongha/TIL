@@ -4,10 +4,10 @@
 # BH <small>ByeongHaSong</small>
 
 <!-- background image -->
-![](_asset/python.png)
+![]()
 
 
-[Git Blog](https://TaeJuneJoung.github.io)[Enter](/python/why_python.md)
+[Git Blog](https://songbyeongha.github.io)[Enter](/python/why_python.md)
 
 
 <!-- background color -->
