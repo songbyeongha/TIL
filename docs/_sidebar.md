@@ -1,7 +1,7 @@
 
 - :lemon: algorithm
 
-  - [단어가 등장하는 횟수 = 해쉬](/algorithm/Solution4038.md)
+  - [단어가 등장하는 횟수 - 해쉬](/algorithm/Solution4038.md)
 
 
 <!-- - :snake: Python -->
