@@ -12,8 +12,17 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: '',
-      repo: ''
+      el: "#app",
+      name: 'Dev.J <small>Docs</small>',
+      repo: 'https://github.com/TaeJuneJoung/TIL',
+      loadSidebar: './_sidebar.md',
+      coverpage: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      auto2top: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
